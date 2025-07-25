@@ -113,10 +113,24 @@ MamaCare is a mobile application designed to support maternal health and wellnes
    flutter run
    ```
 
+## 🌐 Live Demo
+
+Experience MamaCare instantly through our live demo on the web.
+
+### Web Demo
+Visit our web demo at: [MamaCare Web Demo](https://mamacare-ke.netlify.app/)
+
+### Credentials for the demo.
+```
+Email: demo@mamacare.com
+Password: Demo.123
+```
+Or you can create your own account and try out all features.
+
 ## 🔐 Security Features
 
 - **User Authentication:** Secure email/password and social login
-- **Data Encryption:** End-to-end encryption for sensitive data
+- **Data Encryption:** End-to-end encryption for sensitive data.
 - **Privacy Compliance:** GDPR and HIPAA guidelines followed
 - **Regular Security Updates**
 
