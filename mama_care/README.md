@@ -55,9 +55,9 @@ MamaCare is a mobile application designed to support maternal health and wellnes
 - **Clinics finder:** A way to find nearby clinics
 
 ## Screenshots
-![Login Screen](assets/screenshots/login.png)
-![Home Screen](assets/screenshots/home.png)
-![Tips Screen](assets/screenshots/reminders.png)
+![Login Screen](assets/screenshots/login.jpg)
+![Home Screen](assets/screenshots/home.jpg)
+![Tips Screen](assets/screenshots/reminders.jpg)
 
 ## 🔧 Technical Requirements
 
