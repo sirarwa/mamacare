@@ -50,14 +50,9 @@ MamaCare is a mobile application designed to support maternal health and wellnes
 
 - **Personalized Health Tips:** Receive daily tips tailored to your stage of pregnancy or motherhood.
 - **Set Reminders:** Never miss a doctor’s appointment or medication schedule.
-- **Resource Library:** Access articles, videos, and FAQs on maternal health.
+- **Resource Library:** Access articles, tips, and other content on maternal health.
 - **AI assistant:** Connect with other mothers and share experiences.
 - **Clinics finder:** A way to find nearby clinics
-
-## Screenshots
-![Login Screen](assets/screenshots/login.jpg)
-![Home Screen](assets/screenshots/home.jpg)
-![Tips Screen](assets/screenshots/reminders.jpg)
 
 ## 🔧 Technical Requirements
 
@@ -69,7 +64,7 @@ MamaCare is a mobile application designed to support maternal health and wellnes
   - Internet connection for most features
 
 ### Development Requirements
-- **Flutter SDK:** 3.0.0 or later
+- **Flutter SDK:** 3.0.0 or higher.
 - **Dart:** 2.17 or later
 - **Firebase:** Latest version
 - **IDE:** Android Studio/VS Code with Flutter plugins
@@ -85,8 +80,7 @@ MamaCare is a mobile application designed to support maternal health and wellnes
 ### Backend
 - **Firebase Services:**
   - Authentication
-  - Storage
-  - Analytics
+  - Storage.
 
 ## 🚀 Installation Guide
 
