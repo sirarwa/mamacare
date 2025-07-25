@@ -1,4 +1,4 @@
-# MamaCare
+# [MamaCare](https://mamacare-ke.netlify.app/)
 
 MamaCare is a mobile application designed to support maternal health and wellness throughout the pregnancy journey and early motherhood. Built with Flutter and Firebase, this app provides essential resources, AI-powered assistance, and community features to ensure a healthier and more informed maternal experience.
 
